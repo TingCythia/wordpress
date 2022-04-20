@@ -1,0 +1,30 @@
+2022-04-07T08:41:28+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php on line 35
+
+2022-04-07T08:43:05+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php on line 35
+
+2022-04-07T08:43:28+00:00 CRITICAL Cannot redeclare register_sidebars() (previously declared in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\widgets.php:166) in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php on line 15
+
+2022-04-07T08:43:34+00:00 CRITICAL Cannot redeclare register_sidebars() (previously declared in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\widgets.php:166) in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php on line 15
+
+2022-04-07T08:43:37+00:00 CRITICAL Cannot redeclare register_sidebars() (previously declared in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\widgets.php:166) in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php on line 15
+
+2022-04-07T08:43:40+00:00 CRITICAL Cannot redeclare register_sidebars() (previously declared in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\widgets.php:166) in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php on line 15
+
+2022-04-07T08:43:48+00:00 CRITICAL Cannot redeclare register_sidebars() (previously declared in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\widgets.php:166) in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php on line 15
+
+2022-04-07T08:44:40+00:00 CRITICAL Cannot redeclare register_sidebars() (previously declared in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\widgets.php:166) in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php on line 15
+
+2022-04-07T08:45:05+00:00 CRITICAL Cannot redeclare register_sidebars() (previously declared in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\widgets.php:166) in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php on line 15
+
+2022-04-07T08:46:41+00:00 CRITICAL Cannot redeclare register_sidebars() (previously declared in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\widgets.php:166) in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php on line 15
+
+2022-04-07T08:47:06+00:00 CRITICAL Cannot redeclare register_sidebars() (previously declared in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\widgets.php:166) in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php on line 15
+
+2022-04-07T08:48:43+00:00 CRITICAL Cannot redeclare register_sidebars() (previously declared in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\widgets.php:166) in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php on line 15
+
+2022-04-07T08:48:49+00:00 CRITICAL Cannot redeclare register_sidebars() (previously declared in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\widgets.php:166) in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php on line 15
+
+2022-04-07T08:49:06+00:00 CRITICAL Cannot redeclare register_sidebars() (previously declared in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\widgets.php:166) in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php on line 15
+
+2022-04-07T08:49:07+00:00 CRITICAL Cannot redeclare register_sidebars() (previously declared in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\widgets.php:166) in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php on line 15
+

@@ -1,0 +1,14 @@
+2022-04-19T07:27:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\l10n.php on line 1437
+
+2022-04-19T08:18:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-admin\includes\class-custom-image-header.php on line 1603
+
+2022-04-19T08:51:24+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\storefront-child\functions.php on line 4
+
+2022-04-19T09:07:32+00:00 CRITICAL syntax error, unexpected '}', expecting ';' in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\storefront-child\functions.php on line 20
+
+2022-04-19T09:07:47+00:00 CRITICAL syntax error, unexpected '}', expecting ';' in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\storefront-child\functions.php on line 20
+
+2022-04-19T09:09:33+00:00 CRITICAL syntax error, unexpected '}', expecting ';' in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\storefront-child\functions.php on line 21
+
+2022-04-19T09:09:48+00:00 CRITICAL syntax error, unexpected '}', expecting ';' in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\storefront-child\functions.php on line 22
+

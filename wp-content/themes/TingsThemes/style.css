@@ -1,0 +1,28 @@
+/*
+Theme Name: TingsThemes
+Theme URI: http://wordpress.org/themes/TingsThemes
+Author: TingWang
+Description: Create first themes in 20220331
+*/
+img{
+height:100px;
+}
+
+.header{
+    display: flex;
+    text-align: center;
+}
+
+.header1{
+    flex:5;
+}
+.header2{
+    flex:5;
+}
+
+h3{
+    color:rgb(33, 33, 81)
+}
+h4{
+    color:rgb(237, 143, 11)
+}
