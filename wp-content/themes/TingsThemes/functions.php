@@ -11,26 +11,25 @@ add_theme_support('menus');
 add_theme_support('widgets');
 
 // add widget and register function
-/* add_action('widgets_init'.'register_sidebars');
+/*  add_action('widgets_init'.'register_sidebars');
 function register_sidebars(){
     [
         'name' => 'widget1',
         'id' => 'wigdet1',
         'description'=> 'This is the first widget'
     ];
-}; */
-
-
+}; 
+ */
 
 
 //lägg till menyer
-/* add_action('after_setup_theme'.'registreta_meny');
+ add_action('after_setup_theme', 'registreta_meny');
 
 function registrera_meny(){
     register_nav_menu('mainmenu', 'Main Menu');
     register_nav_menu('socialmenu','Soical Menu');
 }
- */
+ 
 function TingsThemes_enqueue_scripts(){
 
     //register styles with update time 
