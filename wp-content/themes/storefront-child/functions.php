@@ -31,3 +31,17 @@ function remove_storefront_functions(){
     
     }
 }
+
+add_action('rest_api_init', function () {
+    register_rest_route( 'mystorefronttheme/v1', 'latest-posts/(?P<category_id>\d+)',array(
+                  'methods'  => 'GET',
+                  'callback' => 'get_latest_posts_by_category'
+        ));
+  });
+
+// Increase WooCommerce Variation Limit
+function custom_wc_ajax_variation_threshold( $qty, $product ) {
+    return 100;
+    }
+    
+    add_filter( 'woocommerce_ajax_variation_threshold', 'custom_wc_ajax_variation_threshold', 100, 2 );

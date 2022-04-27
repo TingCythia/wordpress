@@ -1,0 +1,65 @@
+2022-04-25T07:37:36+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php on line 26 and at least 2 expected in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\plugin.php:398
+Stack trace:
+#0 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php(26): add_action('after_setup_the...')
+#1 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-settings.php(555): include('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-blog-header.php(13): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\index.php(17): require('C:\\MAMP\\htdocs\\...')
+#6 {main}
+  thrown in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\plugin.php on line 398
+
+2022-04-25T07:37:50+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php on line 26 and at least 2 expected in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\plugin.php:398
+Stack trace:
+#0 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php(26): add_action('after_setup_the...')
+#1 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-settings.php(555): include('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-admin\admin.php(34): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-admin\index.php(10): require_once('C:\\MAMP\\htdocs\\...')
+#6 {main}
+  thrown in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\plugin.php on line 398
+
+2022-04-25T07:39:03+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php on line 26 and at least 2 expected in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\plugin.php:398
+Stack trace:
+#0 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php(26): add_action('after_setup_the...')
+#1 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-settings.php(555): include('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-admin\admin.php(34): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-admin\index.php(10): require_once('C:\\MAMP\\htdocs\\...')
+#6 {main}
+  thrown in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\plugin.php on line 398
+
+2022-04-25T07:41:40+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php on line 26 and at least 2 expected in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\plugin.php:398
+Stack trace:
+#0 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php(26): add_action('after_setup_the...')
+#1 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-settings.php(555): include('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-admin\admin.php(34): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-admin\index.php(10): require_once('C:\\MAMP\\htdocs\\...')
+#6 {main}
+  thrown in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\plugin.php on line 398
+
+2022-04-25T07:41:44+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php on line 26 and at least 2 expected in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\plugin.php:398
+Stack trace:
+#0 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php(26): add_action('after_setup_the...')
+#1 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-settings.php(555): include('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-admin\admin.php(34): require_once('C:\\MAMP\\htdocs\\...')
+#5 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-admin\index.php(10): require_once('C:\\MAMP\\htdocs\\...')
+#6 {main}
+  thrown in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\plugin.php on line 398
+
+2022-04-25T07:42:20+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php on line 26 and at least 2 expected in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\plugin.php:398
+Stack trace:
+#0 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-content\themes\TingsThemes\functions.php(26): add_action('after_setup_the...')
+#1 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-settings.php(555): include('C:\\MAMP\\htdocs\\...')
+#2 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-config.php(96): require_once('C:\\MAMP\\htdocs\\...')
+#3 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-load.php(50): require_once('C:\\MAMP\\htdocs\\...')
+#4 C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\MAMP\\htdocs\\...')
+#5 {main}
+  thrown in C:\MAMP\htdocs\wordpress-5.9.2\wordpress\wp-includes\plugin.php on line 398
+

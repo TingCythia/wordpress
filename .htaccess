@@ -6,11 +6,11 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
-RewriteBase /wordpress-5.9.2/wordpress/
+RewriteBase /labb2-Ting/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /wordpress-5.9.2/wordpress/index.php [L]
+RewriteRule . /labb2-Ting/index.php [L]
 </IfModule>
 
 # END WordPress
