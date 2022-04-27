@@ -10,7 +10,7 @@ add_action('wp_ajax_send-form', 'write_form');
 
 function write_form(){
     
-
+    echo "Your informtion has registered";
     echo $_REQUEST['name'];
     echo $_REQUEST['email'];
     echo $_REQUEST['pass'];
@@ -19,4 +19,3 @@ function write_form(){
     
 }
         
-echo "Your informtion has registered";

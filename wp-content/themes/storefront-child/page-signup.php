@@ -42,10 +42,7 @@
                             </div>
                         </form>
                     </div>
-                    <div class="signup-image">
-                        <figure><img src="./signup-image.jpg" alt="sing up image"></figure>
 
-                    </div>
                 </div>
             </div>
-        </section>;
+        </section>
